@@ -1,4 +1,4 @@
-# PCOS_Diagnosis_System
+# PCOS Diagnosis System
 ## ABOUT PCOS
 [*Polycystic ovary syndrome*](https://www.webmd.com/women/what-is-pcos), or PCOS is a very common type of Heterogenous endocrine disorder in females of reproductive age. Women with PCOS have a hormonal imbalance and metabolism problems that may affect their overall health.
 #### SYMPTOMS:
